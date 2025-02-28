@@ -75,7 +75,7 @@ Manages the todo list and its operation
 ```
 ## Future Enhancements
 
-- 📌 Svae todos to a file/database
+- 📌 Save todos to a file/database
 - 📌 Add a CLI interface
 - 📌 Implementing a web UI
 
